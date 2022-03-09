@@ -1,4 +1,4 @@
--- Blake Sutton, Student ID: 001109490
+-- Blake Sutton
 
 /* The company is looking to introduce a rewards program
 /  and is trying to figure out the best way to implement it.  
